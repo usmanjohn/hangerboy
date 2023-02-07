@@ -1,15 +1,9 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
-from streamlit_lottie import st_lottie
-from sklearn.metrics import confusion_matrix
+
 
 
 import mysql.connector
-from mysql.connector import Error
 
 import pandas as pd
 #try:
